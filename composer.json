@@ -1,0 +1,17 @@
+{
+    "name": "browter/woocart",
+    "description": "Woocommerce Instant add to cart and on page checkout plugin.",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "Browter\\Woocart\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imran Hosein Khan Joy",
+            "email": "greatkhanjoy@gmail.com"
+        }
+    ],
+    "require": {}
+}
